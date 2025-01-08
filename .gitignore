@@ -1,0 +1,5 @@
+.direnv
+.envrc
+.erlang-history
+.nix-hex
+.nix-mix
